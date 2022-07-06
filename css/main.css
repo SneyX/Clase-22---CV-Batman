@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgba(194, 194, 194, 0.9843137255);
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+}
+
+main h1 {
+  color: #1b6c9e;
+  text-align: center;
+  background: #828282;
+  margin: 0 0 5rem 0;
+}
+main section h3 {
+  background: #828282;
+  color: #1b6c9e;
+  text-transform: uppercase;
+}
+main section ul li span {
+  font-weight: bold;
+}
+main section ul li h6 {
+  font-size: 0.8rem;
+}
+
+footer {
+  background: #1b6c9e;
+  padding: 0.5rem 0;
+  display: flex;
+}
+footer span {
+  color: #fff;
+  font-weight: 700;
+  padding: 0 10px 0;
+}/*# sourceMappingURL=main.css.map */
